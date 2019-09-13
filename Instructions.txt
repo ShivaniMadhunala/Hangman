@@ -1,0 +1,24 @@
+......................."HANGMAN".......................
+
+
+
+
+
+
+Gameplay:
+	Basically the computer generates a random movie name.
+	Using the hints given you have to guess the movie.
+	You have six lives.
+	For every incorrect guess,you will lose a life.
+Instuctions:
+	Enter only one character at a time.
+	If you type the incorrect alphabet twice you lose two lives.
+	If you enter a correct alphabet twice you won't lose a life.
+ 			"Enjoy The Game"
+
+
+
+
+
+......................"All The Best"...................
+	
